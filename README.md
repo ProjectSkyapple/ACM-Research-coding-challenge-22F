@@ -20,6 +20,8 @@ To successfully determine the answer to this question, I had to write a Python p
 
 6. Generates and outputs a graphical representation of these lists ("ACRRPS_graph.png").
 
+The code utilizes the Pandas, Seaborn, and Python's built-in libraries such as the CSV library.
+
 ## Conclusion
 
 (In the works.)
