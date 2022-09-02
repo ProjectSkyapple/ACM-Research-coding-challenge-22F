@@ -138,6 +138,8 @@ The following are code outputs:
   States represented: 50
 ```
 
+The code also outputs a CSV version of the ranked list ("Average_Car_Reliability_Rating_Per_State.csv"). A copy of this file is located in the root of this repo.
+
 ## Sources
 
 ## Questions?
