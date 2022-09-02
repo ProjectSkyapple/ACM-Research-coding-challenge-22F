@@ -26,11 +26,11 @@ The code utilizes the Pandas, Seaborn, and Python's built-in libraries such as t
 
 The following are code outputs:
 
-AVERAGE CAR RELIABILITY RATING PER STATE
-Calculated based on data from Cars.com
-Ratings are based on a traditional scale from 1.0 to 5.0.
+`AVERAGE CAR RELIABILITY RATING PER STATE`
+`Calculated based on data from Cars.com`
+`Ratings are based on a traditional scale from 1.0 to 5.0.`
 
-Sorted by A-Z -------
+`Sorted by A-Z -------`
 - AK: 4.8 (1 rating)
 - AL: 4.774999999999999 (72 ratings)
 - AR: 4.670731707317077 (41 ratings)
@@ -82,7 +82,7 @@ Sorted by A-Z -------
 - WV: 4.746153846153845 (13 ratings)
 - WY: 4.733333333333333 (3 ratings)
 
-Sorted by Highest to Lowest -------
+`Sorted by Highest to Lowest -------`
 1. ME: 4.825 (8 ratings)
 2. NE: 4.802702702702704 (37 ratings)
 3. AK: 4.8 (1 rating)
@@ -134,7 +134,7 @@ Sorted by Highest to Lowest -------
 49. CA: 4.580988023952118 (668 ratings)
 50. MS: 4.543478260869566 (23 ratings)
 
-States represented: 50
+`States represented: 50`
 
 ## Sources
 
