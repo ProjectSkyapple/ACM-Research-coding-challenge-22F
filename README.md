@@ -26,6 +26,7 @@ The code utilizes the Pandas, Seaborn, and Python's built-in libraries such as t
 
 The following are code outputs:
 
+```
   AVERAGE CAR RELIABILITY RATING PER STATE
   Calculated based on data from Cars.com
   Ratings are based on a traditional scale from 1.0 to 5.0.
@@ -135,6 +136,7 @@ The following are code outputs:
   50. MS: 4.543478260869566 (23 ratings)
 
   States represented: 50
+```
 
 ## Sources
 
