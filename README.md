@@ -27,3 +27,7 @@ The code utilizes the Pandas, Seaborn, and Python's built-in libraries such as t
 (In the works.)
 
 ## Sources
+
+## Questions?
+
+If you have any questions or would like to learn more about this project, you can send me a message to aaron.jacob@utdallas.edu.
