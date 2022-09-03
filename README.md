@@ -144,7 +144,7 @@ The code also outputs a CSV version of the ranked list ("Average_Car_Reliability
 
 The code outputs the above graph ("ACRRPS_graph.png"). A copy of this file is located in the root of this repo.
 
-Based on the data above, the 10 states with the highest average reliability ratings are:
+Based on the data above, the 10 states with the *highest* average reliability ratings are:
 
 1. Maine (ME)
 2. Nebraska (NE)
@@ -156,6 +156,19 @@ Based on the data above, the 10 states with the highest average reliability rati
 8. Idaho (ID)
 9. Montana (MT)
 10. West Virginia (WV)
+
+The 10 states with the *lowest* average reliability ratings are:
+
+41. New Hampshire (NH)
+42. Indiana (IN)
+43. Delaware (DE)
+44. Illinois (IL)
+45. Oregon (OR)
+46. New Jersey (NJ)
+47. Colorado (CO)
+48. Georgia (GA)
+49. California (CA)
+50. Mississippi (MS)
 
 ## Sources
 
