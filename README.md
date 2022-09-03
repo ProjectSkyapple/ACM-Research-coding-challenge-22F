@@ -176,6 +176,11 @@ The 10 states with the *lowest* average reliability ratings are:
 
 ## Sources
 
+- [Pandas documentation](https://pandas.pydata.org/docs/)
+- [Python built-in CSV module documentation](https://docs.python.org/3/library/csv.html)
+- [Seaborn .barplot tutorial](https://seaborn.pydata.org/generated/seaborn.barplot.html#seaborn.barplot)
+- [Kaggle bar charts and heatmaps tutorial](https://www.kaggle.com/code/alexisbcook/bar-charts-and-heatmaps)
+
 ## Questions?
 
 If you have any questions or would like to learn more about this project, you can send me a message to aaron.jacob@utdallas.edu.
