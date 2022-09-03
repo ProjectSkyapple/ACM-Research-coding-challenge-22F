@@ -20,6 +20,8 @@ To successfully determine the answer to this question, I had to write a Python p
 
 6. Generates and outputs a graphical representation of these lists ("ACRRPS_graph.png").
 
+**The mean car reliability rating of each state can be used as a measure of how reliable (on average) a car sold from a specific state is.**
+
 The code utilizes the Pandas, Seaborn, and Python's built-in libraries such as the CSV library.
 
 The code ("somethingcool.ipynb") is located in the root of this repo.
