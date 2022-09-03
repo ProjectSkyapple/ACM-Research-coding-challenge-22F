@@ -142,7 +142,20 @@ The code also outputs a CSV version of the ranked list ("Average_Car_Reliability
 
 !["ACRRPS_graph.png"](https://raw.githubusercontent.com/ProjectSkyapple/ACM-Research-coding-challenge-22F/d499fa18761a4c70a6c2d7df6451563e03a9aba9/ACRRPS_graph.png)
 
-The code outputs the above graph. A copy of this file is located in the root of this repo.
+The code outputs the above graph ("ACRRPS_graph.png"). A copy of this file is located in the root of this repo.
+
+Based on the data above, the 10 states with the highest average reliability ratings are:
+
+1. Maine (ME)
+2. Nebraska (NE)
+3. Alaska (AK)
+4. South Dakota (SD)
+5. Alabama (AL)
+6. Utah (UT)
+7. Hawaii (HI)
+8. Idaho (ID)
+9. Montana (MT)
+10. West Virginia (WV)
 
 ## Sources
 
