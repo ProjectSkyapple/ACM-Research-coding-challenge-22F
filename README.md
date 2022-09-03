@@ -142,6 +142,8 @@ The code also outputs a CSV version of the ranked list ("Average_Car_Reliability
 
 !["ACRRPS_graph.png"](https://raw.githubusercontent.com/ProjectSkyapple/ACM-Research-coding-challenge-22F/d499fa18761a4c70a6c2d7df6451563e03a9aba9/ACRRPS_graph.png)
 
+The code outputs the above graph. A copy of this file is located in the root of this repo.
+
 ## Sources
 
 ## Questions?
