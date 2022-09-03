@@ -22,6 +22,8 @@ To successfully determine the answer to this question, I had to write a Python p
 
 The code utilizes the Pandas, Seaborn, and Python's built-in libraries such as the CSV library.
 
+The code ("somethingcool.ipynb") is located in the root of this repo.
+
 ## Conclusion
 
 The following are code outputs:
