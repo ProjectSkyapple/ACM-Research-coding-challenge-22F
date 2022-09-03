@@ -148,29 +148,29 @@ The code outputs the above graph ("ACRRPS_graph.png"). A copy of this file is lo
 
 Based on the data above, the 10 states with the *highest* average reliability ratings are:
 
-1. Maine (ME)
-2. Nebraska (NE)
-3. Alaska (AK)
-4. South Dakota (SD)
-5. Alabama (AL)
-6. Utah (UT)
-7. Hawaii (HI)
-8. Idaho (ID)
-9. Montana (MT)
-10. West Virginia (WV)
+1. Maine (ME) - 4.8250
+2. Nebraska (NE) - 4.8027
+3. Alaska (AK) - 4.8000
+4. South Dakota (SD) - 4.7870
+5. Alabama (AL) - 4.7750
+6. Utah (UT) - 4.7740
+7. Hawaii (HI) - 4.7563
+8. Idaho (ID) - 4.7536
+9. Montana (MT) - 4.7500
+10. West Virginia (WV) - 4.7462
 
 The 10 states with the *lowest* average reliability ratings are:
 
-41. New Hampshire (NH)
-42. Indiana (IN)
-43. Delaware (DE)
-44. Illinois (IL)
-45. Oregon (OR)
-46. New Jersey (NJ)
-47. Colorado (CO)
-48. Georgia (GA)
-49. California (CA)
-50. Mississippi (MS)
+41. New Hampshire (NH) - 4.6650
+42. Indiana (IN) - 4.6645
+43. Delaware (DE) - 4.6615
+44. Illinois (IL) - 4.6504
+45. Oregon (OR) - 4.6486
+46. New Jersey (NJ) - 4.6421
+47. Colorado (CO) - 4.6418
+48. Georgia (GA) - 4.6043
+49. California (CA) - 4.5810
+50. Mississippi (MS) - 4.5435
 
 ## Sources
 
